@@ -12,3 +12,30 @@ I am 20 years old and I am currently unemployed. I have always wanted to enter t
 * My strengths:
     + learnability
     + purposefulness
+    
+### **Skills**
+  * HTML
+  * CSS
+  * Git/GitHub
+
+ ### **Code Examples**
+ ```
+<header>
+    <img src="/logo.png" alt="Логотип"> <!-- Логотип сайта -->
+    <nav> <!-- Меню -->
+        <ul>
+            <li><a href="/">Главная</a></li>
+            <li><a href="/about">О нас</a></li>
+            <li><a href="/contacts">Контакты</a></li>
+        </ul>
+    </nav>
+</header>
+ ```
+
+### **Education**
+ * Grodno State College of Engineering, Technology and Design
+  + Technician-programmer
+
+ ### **Languages**
+ * Russian
+ * English
